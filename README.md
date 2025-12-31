@@ -46,7 +46,7 @@
 - Designed and implemented RESTful APIs for shipment and logistics management
 - Implemented CRUD operations with PostgreSQL for persistent data storage
 - 🛠️ Tech: Java, Spring Boot, REST APIs, PostgreSQL
-- 🔗 Repository: https://github.com/Vemula-Niharika/cargoconnect
+- 🔗 Repository: https://github.com/Vemula-Niharika/CargoConnect
 
 - **Employee Management System**  
   Java + Spring Boot | REST APIs | MySQL  
