@@ -1,6 +1,6 @@
 # Hi 👋, I'm Niharika Vemula
 
- **Java Developer (Fresher)** passionate about backend development and building scalable applications using Java and Spring Boot.
+ **Entry-level Java Developer (Fresher)** passionate about backend development and building scalable applications using Java and Spring Boot.
 
 ---
 
